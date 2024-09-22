@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**WalterONeto/WalterONeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**WalterONeto/WalterONeto**✨ _special_ ✨ repository GitHub profile.
 
 Here are some ideas to get you started:
 
