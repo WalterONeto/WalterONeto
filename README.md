@@ -3,7 +3,6 @@
 
 Este é um local pessoal desenvolvido para apresentar meu portfólio como desenvolvedor web. 
 Um pouco sobre minha experiência profissional, habilidades técnicas e projetos realizados. 
-Ama visão geral das minhas competências e serve como ponto de contato para troca de experiências pessoais e profissionais.
 
 
 ## Tecnologias Utilizadas
